@@ -1,0 +1,20 @@
+title: Zdravko’s technical blog
+email: zstoychev@gmail.com
+description: >
+  Zdravko’s technical blog.
+baseurl: ""
+url: "https://zstoychev.github.io"
+twitter_username: ZdravkoStoychev
+github_username:  zstoychev
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:title.html
+
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
