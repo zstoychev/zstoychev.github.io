@@ -126,7 +126,7 @@ table {
 }
 
 .references {
-  li {
+  &.bibliography li {
     display: block;
 
     &:target {
