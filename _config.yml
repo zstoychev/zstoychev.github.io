@@ -6,6 +6,9 @@ baseurl: ""
 url: "https://zstoychev.github.io"
 twitter_username: ZdravkoStoychev
 github_username:  zstoychev
+disqus_id: zdravkos-tech-blog
+ga_id: UA-99183129-1
+
 sass:
   sass_dir: _sass
   style: compressed
