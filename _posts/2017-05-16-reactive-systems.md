@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Реактивни системи"
-date: 2017-03-21 19:00:00 +0200
+date: 2017-05-16 11:00:00 +0200
 categories: reactive
 comments: true
 lang: bg
